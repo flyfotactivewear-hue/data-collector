@@ -25,7 +25,7 @@ export default function Hero() {
 
         <div className="offer">
           <span className="offer__eyebrow">Subscribe for</span>
-          <span className="offer__amount">20% Off</span>
+          <span className="offer__amount">50% Off</span>
           <span className="offer__terms">On your first 3 orders</span>
         </div>
 
